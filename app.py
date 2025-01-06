@@ -8,7 +8,7 @@ from PIL import Image
 
 
 st.header('floral classification')
-flower_names = ['daisy', 'rose', 'tulip', 'dandelion', 'sunflower']
+flower_names = ['daisy', 'dandelion', 'rose', 'sunflower', 'tulip']
 
 # Load the trained model
 model = load_model('flower_classification_model.keras')
