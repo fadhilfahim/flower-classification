@@ -61,7 +61,5 @@ This project involves building a Convolutional Neural Network (CNN) for classify
 1. **Train the Model**: Run the script to train the model using the flower dataset.
 2. **Make Predictions**: Use the `classify_image` function to classify new flower images by passing the image path.
 3. **Save and Load Model**: The trained model can be saved and loaded using `model.save()` and `load_model()` for later use.
-
+4. **Checkput website**:make sure you install streamlit, then type "streamlit run app.py" on the terminal
 ---
-
-This summary should help users understand the steps involved in the project and how the model is built and used.
